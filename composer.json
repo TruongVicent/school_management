@@ -1,0 +1,19 @@
+{
+    "phpmailer/phpmailer": "^6.9.1",
+
+    "name": "nguye/tutorial_01-08_files",
+    "autoload": {
+        "psr-4": {
+            "App\\": "private/"
+        }
+    },
+    "authors": [
+        {
+            "name": "TruongVicent",
+            "email": "110811587+TruongVicent@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
